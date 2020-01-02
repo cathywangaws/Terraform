@@ -6,3 +6,5 @@ Terraform code
 > terraform plan
 >
 > terraform apply
+>
+> terraform destroy
